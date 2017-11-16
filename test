@@ -1,0 +1,3 @@
+my_name = "Cindi Lauper"
+my_name = "Phil Collins"
+print my_name
